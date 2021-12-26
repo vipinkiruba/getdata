@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "John",
+      "age": 30
+    },
+    {
+      "id": 2,
+      "name": "Mohamed",
+      "age": 30
+    },
+    {
+      "id": 1,
+      "name": "MNaandi",
+      "age": 30
+    }
+  ],
+  "feeds": [
+    {
+      "id": 4,
+      "name": "school",
+      "age": 34
+    },
+    {
+      "id": 5,
+      "name": "college",
+      "age": 78
+    },
+    {
+      "id": 6,
+      "name": "bike",
+      "age": 90
+    }
+  ],
+  "signup": {
+    "user": "username",
+    "pass": "password"
+  }
+}
